@@ -1,0 +1,18 @@
+
+k	java:S117Q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³÷Î¥ùÿÿÿÿ
+0
+java:S1700"Rename field "vuelos"(ê”‰›úÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–®‘Õùÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(£°ï ÿÿÿÿÿ
+c	java:S100P"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ñÛÊ
+P
+java:S1117R":Rename "vuelos" which hides the field declared at line 14.(êÄš¬
+R
+java:S1128"0Remove this unused import 'net.datafaker.Faker'.(…æƒùÿÿÿÿ8œ÷àƒù1
+N
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8÷àƒù1
+O
+java:S1128
+"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8÷àƒù1
+?
+java:S1068")Remove this unused "numId" private field.(Å‡×š

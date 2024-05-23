@@ -1,0 +1,6 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı›“¾8¼Î›ö1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ºÿô§8½Î›ö1
+w	java:S116"VRename this field "contraseÃ±a" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëôŒ¦ÿÿÿÿÿ8¿Î›ö1
+V
+java:S1128"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ8Ö÷Èö1

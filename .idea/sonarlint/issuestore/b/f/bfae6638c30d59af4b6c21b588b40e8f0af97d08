@@ -1,0 +1,12 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áû¯éøÿÿÿÿ8å™»õ1
+]	java:S125"<This block of commented-out lines of code should be removed.(Úöµğûÿÿÿÿ8ò€Ô­ø1
+X	java:S125"<This block of commented-out lines of code should be removed.(­šÿÀ8è™»õ1
+Q
+java:S1128"5Remove this unused import 'org.example.DAO.Clientes'.(¨†·/8ó€Ô­ø1
+U
+java:S1128"8Remove this unused import 'org.example.DAO.DAOFicheros'.(ÇÌèƒ8ô€Ô­ø1
+P
+java:S1128"3Remove this unused import 'org.example.DAO.Vuelos'.(Ÿüòö8è™»õ1
+T
+java:S1128"7Remove this unused import 'org.example.Domain.Cliente'.(«õ˜Ë8è™»õ1

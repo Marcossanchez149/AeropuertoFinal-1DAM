@@ -1,0 +1,118 @@
+
+u
+java:S1192+"SDefine a constant instead of duplicating this literal "OpciÃ³n no vÃ¡lida" 5 times.(ì†Œ³şÿÿÿÿ8õ÷áÕù1
+o
+java:S1192É"LDefine a constant instead of duplicating this literal "Saliendo..." 4 times.(Ş‡û ıÿÿÿÿ8õ÷áÕù1
+l	java:S1178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²…c8ö÷áÕù1
+m	java:S117U"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂƒŸ’8ö÷áÕù1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áû¯éøÿÿÿÿ8ù÷áÕù1
+G	java:S106!"+Replace this use of System.out by a logger.(¥ç–8¸€âÕù1
+G	java:S106$"+Replace this use of System.out by a logger.(ºá“¢8¸€âÕù1
+L	java:S106+"+Replace this use of System.out by a logger.(ì†Œ³şÿÿÿÿ8¹€âÕù1
+F	java:S1064"+Replace this use of System.out by a logger.(ŞÚÊ8º€âÕù1
+G	java:S1065"+Replace this use of System.out by a logger.(íÑğù8º€âÕù1
+G	java:S1067"+Replace this use of System.out by a logger.(ÔÀñ8»€âÕù1
+L	java:S106;"+Replace this use of System.out by a logger.(ÅÁ‹°ûÿÿÿÿ8»€âÕù1
+L	java:S106?"+Replace this use of System.out by a logger.(ö¬·Æøÿÿÿÿ8¼€âÕù1
+\
+java:S1854U"?Remove this useless assignment to local variable "salto_linea".(ÂƒŸ’8½€âÕù1
+G	java:S106N"+Replace this use of System.out by a logger.(Ó®ı‹8¾€âÕù1
+G	java:S106O"+Replace this use of System.out by a logger.(ï˜ƒÀ8¾€âÕù1
+L	java:S106Q"+Replace this use of System.out by a logger.(êãüÿÿÿÿ8¾€âÕù1
+L	java:S106S"+Replace this use of System.out by a logger.(”¿ÁŒùÿÿÿÿ8¿€âÕù1
+M
+java:S1481U"0Remove this unused "salto_linea" local variable.(ÂƒŸ’8¿€âÕù1
+L	java:S106V"+Replace this use of System.out by a logger.(õíÎ‹ıÿÿÿÿ8À€âÕù1
+G	java:S106Y"+Replace this use of System.out by a logger.(µœà8À€âÕù1
+L	java:S106]"+Replace this use of System.out by a logger.(½ù‘¸ùÿÿÿÿ8Á€âÕù1
+L	java:S106f"+Replace this use of System.out by a logger.(ÖÅ˜üÿÿÿÿ8Â€âÕù1
+L	java:S106g"+Replace this use of System.out by a logger.(¿ÍµÌÿÿÿÿÿ8Â€âÕù1
+F	java:S106i"+Replace this use of System.out by a logger.(íûç8Ã€âÕù1
+G	java:S106m"+Replace this use of System.out by a logger.(ü¡€£8Ä€âÕù1
+L	java:S106q"+Replace this use of System.out by a logger.(ö¬·Æøÿÿÿÿ8Ä€âÕù1
+G	java:S106"+Replace this use of System.out by a logger.(Ñ‘•8Æ€âÕù1
+M	java:S106€"+Replace this use of System.out by a logger.(¥ó¯‡ÿÿÿÿÿ8Æ€âÕù1
+M	java:S106‚"+Replace this use of System.out by a logger.(êãüÿÿÿÿ8Æ€âÕù1
+H	java:S106„"+Replace this use of System.out by a logger.(İÌÍª8Ç€âÕù1
+M	java:S106†"+Replace this use of System.out by a logger.(õíÎ‹ıÿÿÿÿ8Ç€âÕù1
+H	java:S106Œ"+Replace this use of System.out by a logger.(„³Ò£8Ê€âÕù1
+G	java:S106"+Replace this use of System.out by a logger.(³ø•{8Ì€âÕù1
+M	java:S106“"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8Í€âÕù1
+M	java:S106–"+Replace this use of System.out by a logger.(ş™Ö¢øÿÿÿÿ8Í€âÕù1
+H	java:S106Ÿ"+Replace this use of System.out by a logger.(ü×Ì±8Ï€âÕù1
+G	java:S106¨"+Replace this use of System.out by a logger.(¤ĞøT8Ğ€âÕù1
+M	java:S106¯"+Replace this use of System.out by a logger.(ìƒ¼µıÿÿÿÿ8Ñ€âÕù1
+M	java:S106±"+Replace this use of System.out by a logger.(¾¶òÊúÿÿÿÿ8Ñ€âÕù1
+M	java:S106¸"+Replace this use of System.out by a logger.(¥‡Âõüÿÿÿÿ8Ñ€âÕù1
+M	java:S106¾"+Replace this use of System.out by a logger.(ñ€³öşÿÿÿÿ8Ô€âÕù1
+H	java:S106Ä"+Replace this use of System.out by a logger.(¡›¼²8Õ€âÕù1
+M	java:S106É"+Replace this use of System.out by a logger.(Ş‡û ıÿÿÿÿ8Õ€âÕù1
+M	java:S106Ì"+Replace this use of System.out by a logger.(ì†Œ³şÿÿÿÿ8Ö€âÕù1
+o
+java:S3776Ó"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(§§Ì]8Ò€âÕù1
+a
+java:S1854Ü">Remove this useless assignment to local variable "saltoLinea".(âÏâ•úÿÿÿÿ8Ó€âÕù1
+]
+java:S1854ñ"?Remove this useless assignment to local variable "saltoLinea2".(‹®şñ8Ó€âÕù1
+H	java:S106×"+Replace this use of System.out by a logger.(¼îéı8Ö€âÕù1
+R
+java:S1481Ü"/Remove this unused "saltoLinea" local variable.(âÏâ•úÿÿÿÿ8Ô€âÕù1
+M	java:S106İ"+Replace this use of System.out by a logger.(ñ×­–øÿÿÿÿ8Ö€âÕù1
+H	java:S106á"+Replace this use of System.out by a logger.(±§†œ8Ö€âÕù1
+H	java:S106ã"+Replace this use of System.out by a logger.(ÖŸïŸ8×€âÕù1
+M	java:S106å"+Replace this use of System.out by a logger.(ŸÎ¢†ùÿÿÿÿ8Ø€âÕù1
+H	java:S106é"+Replace this use of System.out by a logger.(›²àî8Ø€âÕù1
+M	java:S106ì"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8Ø€âÕù1
+N
+java:S1481ñ"0Remove this unused "saltoLinea2" local variable.(‹®şñ8×€âÕù1
+H	java:S106ò"+Replace this use of System.out by a logger.(çÔå´8Ù€âÕù1
+M	java:S106õ"+Replace this use of System.out by a logger.(”ë”Ğüÿÿÿÿ8Ú€âÕù1
+H	java:S106ù"+Replace this use of System.out by a logger.(ØöÌä8Ú€âÕù1
+M	java:S106û"+Replace this use of System.out by a logger.(„¿âúÿÿÿÿ8Û€âÕù1
+H	java:S106ƒ"+Replace this use of System.out by a logger.(¡×Ñ•8Ü€âÕù1
+M	java:S106‰"+Replace this use of System.out by a logger.(Ş‡û ıÿÿÿÿ8Ü€âÕù1
+M	java:S106"+Replace this use of System.out by a logger.(ì†Œ³şÿÿÿÿ8ß€âÕù1
+M	java:S106”"+Replace this use of System.out by a logger.(Ï“ò‡ùÿÿÿÿ8à€âÕù1
+M	java:S106š"+Replace this use of System.out by a logger.(æ¶Úûÿÿÿÿ8á€âÕù1
+H	java:S106 "+Replace this use of System.out by a logger.(ß×ëŸ8á€âÕù1
+u
+java:S3776¤"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(¨ùø¸ÿÿÿÿÿ8İ€âÕù1
+a
+java:S1854¼">Remove this useless assignment to local variable "saltoLinea".(âÏâ•úÿÿÿÿ8Ş€âÕù1
+H	java:S106¨"+Replace this use of System.out by a logger.(Â”Æ½8â€âÕù1
+M	java:S106­"+Replace this use of System.out by a logger.(ğÑŒ«ûÿÿÿÿ8â€âÕù1
+c
+java:S2147µ"ECombine this catch with the one at line 307, which has the same body.(Ì ÈÈ8á€âÕù1
+H	java:S106±"+Replace this use of System.out by a logger.(Ô¿ñ8ã€âÕù1
+M	java:S106´"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8ã€âÕù1
+M	java:S106¶"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8ã€âÕù1
+R
+java:S1481¼"/Remove this unused "saltoLinea" local variable.(âÏâ•úÿÿÿÿ8â€âÕù1
+H	java:S106½"+Replace this use of System.out by a logger.(çÔå´8ä€âÕù1
+M	java:S106Á"+Replace this use of System.out by a logger.(–øÅ®şÿÿÿÿ8å€âÕù1
+M	java:S106Ã"+Replace this use of System.out by a logger.(ĞØşøúÿÿÿÿ8å€âÕù1
+M	java:S106Æ"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8å€âÕù1
+M	java:S106Î"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8æ€âÕù1
+H	java:S106Ô"+Replace this use of System.out by a logger.(§Ñšº8ç€âÕù1
+M	java:S106Ø"+Replace this use of System.out by a logger.(Ş‡û ıÿÿÿÿ8è€âÕù1
+M	java:S106Û"+Replace this use of System.out by a logger.(ì†Œ³şÿÿÿÿ8è€âÕù1
+a
+java:S1854é">Remove this useless assignment to local variable "saltoLinea".(âÏâ•úÿÿÿÿ8æ€âÕù1
+M	java:S106ã"+Replace this use of System.out by a logger.(÷ƒ‡ºùÿÿÿÿ8è€âÕù1
+M	java:S106ç"+Replace this use of System.out by a logger.(éÂÆùüÿÿÿÿ8é€âÕù1
+R
+java:S1481é"/Remove this unused "saltoLinea" local variable.(âÏâ•úÿÿÿÿ8ç€âÕù1
+H	java:S106ì"+Replace this use of System.out by a logger.(À–ö‹8é€âÕù1
+M	java:S106ñ"+Replace this use of System.out by a logger.(Œ³úÓùÿÿÿÿ8ê€âÕù1
+M	java:S106ö"+Replace this use of System.out by a logger.(æœ¬ùÿÿÿÿ8ê€âÕù1
+M	java:S106û"+Replace this use of System.out by a logger.(°¨ÿªşÿÿÿÿ8ë€âÕù1
+H	java:S106€"+Replace this use of System.out by a logger.(åÃÎß8ë€âÕù1
+M	java:S106…"+Replace this use of System.out by a logger.(Ş‡û ıÿÿÿÿ8ë€âÕù1
+M	java:S106ˆ"+Replace this use of System.out by a logger.(ì†Œ³şÿÿÿÿ8ì€âÕù1
+M	java:S106"+Replace this use of System.out by a logger.(Ô¶ÍÃøÿÿÿÿ8ì€âÕù1
+M	java:S106’"+Replace this use of System.out by a logger.(œê¢™ÿÿÿÿÿ8ì€âÕù1
+M	java:S106”"+Replace this use of System.out by a logger.(×˜ƒøÿÿÿÿ8í€âÕù1
+H	java:S106–"+Replace this use of System.out by a logger.(Î£Ü²8µ’ãÕù1
+M	java:S106˜"+Replace this use of System.out by a logger.(›ÈÕÀùÿÿÿÿ8µ’ãÕù1
+H	java:S106š"+Replace this use of System.out by a logger.(Á¿Ô¡8µ’ãÕù1
+M	java:S106œ"+Replace this use of System.out by a logger.(ı·«£ùÿÿÿÿ8¶’ãÕù1

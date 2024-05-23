@@ -1,0 +1,9 @@
+
+r	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³÷Î¥ùÿÿÿÿ8¥®ø1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–®‘Õùÿÿÿÿ8¡¥®ø1
+`
+java:S1612O"CReplace this lambda with method reference 'Cliente::getDiasCompra'.(®ï‰ö8“¦®ø1
+`
+java:S1612T"CReplace this lambda with method reference 'Cliente::getHoracompra'.(ëù¿¸8ì¦®ø1
+V
+java:S1128"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ8î¦®ø1

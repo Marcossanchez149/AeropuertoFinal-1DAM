@@ -1,0 +1,38 @@
+[
+  {
+    "id": "T1",
+    "nombre": "Jose",
+    "edad": 34,
+    "contraseña": "contraseña"
+  },
+  {
+    "id": "T2",
+    "nombre": "Javi",
+    "edad": 50,
+    "contraseña": "1234"
+  },
+  {
+    "id": "T3",
+    "nombre": "Mangel",
+    "edad": 62,
+    "contraseña": "aeropuerto34"
+  },
+  {
+    "id": "T4",
+    "nombre": "Liam",
+    "edad": 29,
+    "contraseña": "Tomate12"
+  },
+  {
+    "id": "T5",
+    "nombre": "Victor",
+    "edad": 38,
+    "contraseña": "yeyi123"
+  },
+  {
+    "id": "T6",
+    "nombre": "Marcos",
+    "edad": 60,
+    "contraseña": "9876"
+  }
+]

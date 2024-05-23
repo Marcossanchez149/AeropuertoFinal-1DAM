@@ -1,0 +1,18 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–®‘Õùÿÿÿÿ
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Áðý…
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(®³¬ïøÿÿÿÿ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Áðý…
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(®³¬ïøÿÿÿÿ
+\	java:S899"BDo something with the "boolean" value returned by "createNewFile".(üÛ–šøÿÿÿÿ
+\	java:S899"BDo something with the "boolean" value returned by "createNewFile".(øí‰Îøÿÿÿÿ
+A
+java:S1481"+Remove this unused "cadena" local variable.(´—¿‡
+7
+java:S1116*"Remove this empty statement.(ôŸŽìúÿÿÿÿ
+_
+java:S21479"DCombine this catch with the one at line 54, which has the same body.(ëëûÂúÿÿÿÿ
+Z
+java:S2147F"DCombine this catch with the one at line 68, which has the same body.(Ãôþ•

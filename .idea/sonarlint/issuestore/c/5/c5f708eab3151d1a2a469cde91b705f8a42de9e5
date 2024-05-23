@@ -1,0 +1,11 @@
+
+4
+java:S1700"Rename field "clientes"(‘ÄÏÆ8“³ˆù1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–®‘Õùÿÿÿÿ8”³ˆù1
+]	java:S125"<This block of commented-out lines of code should be removed.(£°ï ÿÿÿÿÿ8¡³ˆù1
+o	java:S100?"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«âø¼şÿÿÿÿ8§³ˆù1
+j	java:S100N"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çàİ®8¬³ˆù1
+R
+java:S1128"0Remove this unused import 'net.datafaker.Faker'.(…æƒùÿÿÿÿ8ëëˆù1
+V
+java:S1128"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ8ëëˆù1
